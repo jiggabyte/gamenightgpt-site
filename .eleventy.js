@@ -3,6 +3,10 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 module.exports = function (eleventyConfig) {
   /* 1. RSS */
   eleventyConfig.addPlugin(pluginRss);
+  
+  eleventyConfig.addCollection("rss", (collection) =>
+    pluginRss.getRssItems(collection)
+  );
 
   /* 2. Blog collection */
   eleventyConfig.addCollection("posts", (col) =>
