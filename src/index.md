@@ -12,6 +12,5 @@ Stay tuned for updates, news, and community events.
 - [Join the Waitlist for Publishers](landing/publishers/index.html)
 - [Read our Blog](posts)
 - [Subscribe to our RSS Feed](/rss.xml)
-- [Subscribe to our RSS Feed](/rss/index.html)
 
 Happy gaming!

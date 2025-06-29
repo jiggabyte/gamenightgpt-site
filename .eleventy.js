@@ -21,17 +21,13 @@ module.exports = function (eleventyConfig) {
     }
   });
 
+
   /* 1. RSS */
   eleventyConfig.addPlugin(pluginRss);
 
   /* 2. Blog collection */
   eleventyConfig.addCollection("posts", (col) =>
     col.getFilteredByGlob("src/posts/**/*.md").reverse()
-  );
-
-    // Add this collection for the index page
-  eleventyConfig.addCollection("allPosts", (col) =>
-    col.getFilteredByGlob("src/posts/**/*.md")
   );
 
   /* 3. Absolute URL helper for feeds/emails */
