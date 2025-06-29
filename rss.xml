@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>GameNight GPT</title>
   <subtitle>Gamenight Updates</subtitle>
-  <link href="http://localhost:8080/rss.xml" rel="self" />
-  <link href="http://localhost:8080/" />
-  <updated>2025-06-29T14:08:24Z</updated>
-  <id>http://localhost:8080/</id>
+  <link href="http://localhost:8080/gamenightgpt-site/dist/rss.xml" rel="self" />
+  <link href="http://localhost:8080/gamenightgpt-site/dist/" />
+  <updated>2025-06-29T14:21:23Z</updated>
+  <id>http://localhost:8080/gamenightgpt-site/dist/</id>
   <author>
     <name>GameNight GPT</name>
     <email>info@gamenightgpt.com</email>
   </author>
   <entry>
     <title>Hello, World</title>
-    <link href="http://localhost:8080/posts/2025-06-24-hello/" />
+    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-24-hello/" />
     <updated>2025-06-24T00:00:00Z</updated>
-    <id>http://localhost:8080/posts/2025-06-24-hello/</id>
+    <id>http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-24-hello/</id>
     <content type="html">&lt;p&gt;My first post.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Jigga, Byte</title>
-    <link href="http://localhost:8080/posts/2025-06-29-jigga/" />
+    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-29-jigga/" />
     <updated>2025-06-29T00:00:00Z</updated>
-    <id>http://localhost:8080/posts/2025-06-29-jigga/</id>
+    <id>http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-29-jigga/</id>
     <content type="html">&lt;p&gt;The jigga post.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Welcome to the Game Night RSS Feed!</title>
-    <link href="http://localhost:8080/posts/welcome-to-our-feed/" />
+    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/welcome-to-our-feed/" />
     <updated>2025-06-29T00:00:00Z</updated>
-    <id>http://localhost:8080/posts/welcome-to-our-feed/</id>
+    <id>http://localhost:8080/gamenightgpt-site/dist/posts/welcome-to-our-feed/</id>
     <content type="html">&lt;h1&gt;Welcome to the Game Night RSS Feed! 🎲&lt;/h1&gt;
 &lt;p&gt;Hello and welcome!&lt;/p&gt;
 &lt;p&gt;Thank you for subscribing to the Game Night RSS feed. Here, you&#39;ll get the latest updates, announcements, and behind-the-scenes news about our platform, upcoming features, and community events.&lt;/p&gt;
@@ -41,54 +41,54 @@ The Game Night Team&lt;/p&gt;
   </entry>
   <entry>
     <title>All Posts</title>
-    <link href="http://localhost:8080/posts/" />
-    <updated>2025-06-29T14:08:24Z</updated>
-    <id>http://localhost:8080/posts/</id>
+    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/" />
+    <updated>2025-06-29T14:21:23Z</updated>
+    <id>http://localhost:8080/gamenightgpt-site/dist/posts/</id>
     <content type="html">&lt;h1&gt;All Posts&lt;/h1&gt;
 &lt;ul&gt;
-&lt;p&gt;&lt;li&gt;
-&lt;a href=&quot;http://localhost:8080/posts/2025-06-24-hello/&quot;&gt;Hello, World&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
-()
-&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;li&gt;
-&lt;a href=&quot;http://localhost:8080/posts/2025-06-29-jigga/&quot;&gt;Jigga, Byte&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
-()
-&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;li&gt;
-&lt;a href=&quot;http://localhost:8080/posts/welcome-to-our-feed/&quot;&gt;Welcome to the Game Night RSS Feed!&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
-()
-&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;li&gt;
-&lt;a href=&quot;http://localhost:8080/posts/&quot;&gt;All Posts&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
-()
-&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;li&gt;
-&lt;a href=&quot;http://localhost:8080/posts/soft/&quot;&gt;soft&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
-()
-&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;li&gt;
-&lt;a href=&quot;http://localhost:8080/posts/software/&quot;&gt;software&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
-()
-&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+    &lt;li&gt;
+      &lt;a href=&quot;http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-24-hello/&quot;&gt;Hello, World&lt;/a&gt;
+        &lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
+          ()
+        &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&quot;http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-29-jigga/&quot;&gt;Jigga, Byte&lt;/a&gt;
+        &lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
+          ()
+        &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&quot;http://localhost:8080/gamenightgpt-site/dist/posts/welcome-to-our-feed/&quot;&gt;Welcome to the Game Night RSS Feed!&lt;/a&gt;
+        &lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
+          ()
+        &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&quot;http://localhost:8080/gamenightgpt-site/dist/posts/&quot;&gt;All Posts&lt;/a&gt;
+        &lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
+          ()
+        &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&quot;http://localhost:8080/gamenightgpt-site/dist/posts/soft/&quot;&gt;soft&lt;/a&gt;
+        &lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
+          ()
+        &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&quot;http://localhost:8080/gamenightgpt-site/dist/posts/software/&quot;&gt;software&lt;/a&gt;
+        &lt;span style=&quot;color:#888;font-size:0.95em;&quot;&gt;
+          ()
+        &lt;/span&gt;
+    &lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   <entry>
     <title></title>
-    <link href="http://localhost:8080/posts/soft/" />
-    <updated>2025-06-29T14:08:24Z</updated>
-    <id>http://localhost:8080/posts/soft/</id>
+    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/soft/" />
+    <updated>2025-06-29T14:21:23Z</updated>
+    <id>http://localhost:8080/gamenightgpt-site/dist/posts/soft/</id>
     <content type="html">&lt;p&gt;Subject: Confirmation of Employment - Jigger [Your Last Name]&lt;/p&gt;
 &lt;p&gt;Dear [Recipient&#39;s Name],&lt;/p&gt;
 &lt;p&gt;I hope this email finds you well.&lt;/p&gt;
@@ -110,9 +110,9 @@ The Game Night Team&lt;/p&gt;
   </entry>
   <entry>
     <title></title>
-    <link href="http://localhost:8080/posts/software/" />
-    <updated>2025-06-29T14:08:24Z</updated>
-    <id>http://localhost:8080/posts/software/</id>
+    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/software/" />
+    <updated>2025-06-29T14:21:23Z</updated>
+    <id>http://localhost:8080/gamenightgpt-site/dist/posts/software/</id>
     <content type="html">&lt;p&gt;Subject: Confirmation of Employment - Jigga [Your Last Name]&lt;/p&gt;
 &lt;p&gt;Dear [Recipient&#39;s Name],&lt;/p&gt;
 &lt;p&gt;I hope this email finds you well.&lt;/p&gt;
