@@ -3,7 +3,6 @@ title: "All Posts"
 layout: base.njk
 ---
 
-{%- block content %}
 # All Posts
 <ul>
 {%- set posts = collections.posts | slice(0, 50) %}
@@ -18,4 +17,3 @@ layout: base.njk
     </li>
   {%- endfor %}
 </ul>
-{%- endblock %}
