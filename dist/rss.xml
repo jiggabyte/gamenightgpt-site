@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-    <title>GameNightGPT News</title>
-    <link>http://localhost:8080/dist/posts/</link>
-    <description>Updates on our board-game app</description>
-    
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>GameNight GPT</title>
+  <subtitle></subtitle>
+  <link href="http://localhost:8080/rss.xml" rel="self" />
+  <link href="http://localhost:8080/" />
+  <updated>2025-06-29T12:27:52Z</updated>
+  <id>http://localhost:8080/</id>
+  <author>
+    <name>GameNight GPT</name>
+  </author>
+</feed>

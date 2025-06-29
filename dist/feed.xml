@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://example.com/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Title</title>
+    <link>https://example.com/</link>
+    <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description>This is a longer description about your blog.</description>
+    <language>en</language>
+    <item>
+      <title>Hello, World</title>
+      <link>https://example.com/posts/2025-06-24-hello/</link>
+      <description>&lt;p&gt;My first post.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 24 Jun 2025 01:00:00 GMT</pubDate>
+      <dc:creator>Your Name</dc:creator>
+      <guid>https://example.com/posts/2025-06-24-hello/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/posts/software/</link>
+      <description>&lt;p&gt;Subject: Confirmation of Employment - Jigga [Your Last Name]&lt;/p&gt;
+&lt;p&gt;Dear [Recipient&#39;s Name],&lt;/p&gt;
+&lt;p&gt;I hope this email finds you well.&lt;/p&gt;
+&lt;p&gt;This is to formally confirm that &lt;strong&gt;Jigga [Last Name]&lt;/strong&gt; is currently employed with [Company Name] as a &lt;strong&gt;Software Engineer&lt;/strong&gt; since [start date, e.g., January 15, 2023].&lt;/p&gt;
+&lt;p&gt;In this role, Jigga&#39;s responsibilities include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing, developing, and maintaining software applications&lt;/li&gt;
+&lt;li&gt;Collaborating with cross-functional teams to deliver high-quality solutions&lt;/li&gt;
+&lt;li&gt;[Add any other relevant responsibilities]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please feel free to contact me at [your email] or [your phone number] if you require any further information.&lt;/p&gt;
+&lt;p&gt;Best regards,&lt;br&gt;
+[Your Full Name]&lt;br&gt;
+[Your Job Title]&lt;br&gt;
+[Company Name]&lt;br&gt;
+[Your Contact Information]&lt;br&gt;
+[Company Website URL (optional)]&lt;/p&gt;
+</description>
+      <pubDate>Sat, 28 Jun 2025 18:17:39 GMT</pubDate>
+      <dc:creator>Your Name</dc:creator>
+      <guid>https://example.com/posts/software/</guid>
+    </item>
+    <item>
+      <title>Welcome to the Game Night RSS Feed!</title>
+      <link>https://example.com/posts/welcome-to-our-feed/</link>
+      <description>&lt;h1&gt;Welcome to the Game Night RSS Feed! 🎲&lt;/h1&gt;
+&lt;p&gt;Hello and welcome!&lt;/p&gt;
+&lt;p&gt;Thank you for subscribing to the Game Night RSS feed. Here, you&#39;ll get the latest updates, announcements, and behind-the-scenes news about our platform, upcoming features, and community events.&lt;/p&gt;
+&lt;p&gt;Stay tuned for exciting content, and thank you for being part of our journey!&lt;/p&gt;
+&lt;p&gt;Happy gaming,&lt;br&gt;
+The Game Night Team&lt;/p&gt;
+</description>
+      <pubDate>Sun, 29 Jun 2025 01:00:00 GMT</pubDate>
+      <dc:creator>Your Name</dc:creator>
+      <guid>https://example.com/posts/welcome-to-our-feed/</guid>
+    </item>
+  </channel>
+</rss>
