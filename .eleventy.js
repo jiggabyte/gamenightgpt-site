@@ -13,7 +13,7 @@ module.exports = function (eleventyConfig) {
       language: "en",
       title: "GameNight GPT",
       subtitle: "Gamenight Updates",
-      base: "http://localhost:8080/",
+      base: "https://jiggabyte.github.io/",
       author: {
         name: "GameNight GPT",
         email: "info@gamenightgpt.com", // Optional
