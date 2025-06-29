@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>GameNight GPT</title>
-  <subtitle>Gamenight Updates</subtitle>
-  <link href="http://localhost:8080/gamenightgpt-site/dist/rss.xml" rel="self" />
-  <link href="http://localhost:8080/gamenightgpt-site/dist/" />
-  <updated>2025-06-29T12:30:01Z</updated>
-  <id>http://localhost:8080/gamenightgpt-site/dist/</id>
-  <author>
-    <name>GameNight GPT</name>
-    <email>info@gamenightgpt.com</email>
-  </author>
-  <entry>
-    <title>Hello, World</title>
-    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-24-hello/" />
-    <updated>2025-06-24T00:00:00Z</updated>
-    <id>http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-24-hello/</id>
-    <content type="html">&lt;p&gt;My first post.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title></title>
-    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/software/" />
-    <updated>2025-06-28T17:17:39Z</updated>
-    <id>http://localhost:8080/gamenightgpt-site/dist/posts/software/</id>
-    <content type="html">&lt;p&gt;Subject: Confirmation of Employment - Jigga [Your Last Name]&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://localhost:8080/gamenightgpt-site/dist/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GameNight GPT</title>
+    <link>http://localhost:8080/gamenightgpt-site/dist/</link>
+    <atom:link href="http://localhost:8080/gamenightgpt-site/dist/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Gamenight Updates</description>
+    <language>en</language>
+    <item>
+      <title>Hello, World</title>
+      <link>http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-24-hello/</link>
+      <description>&lt;p&gt;My first post.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 24 Jun 2025 01:00:00 GMT</pubDate>
+      <dc:creator>GameNight GPT</dc:creator>
+      <guid>http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-24-hello/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:8080/gamenightgpt-site/dist/posts/software/</link>
+      <description>&lt;p&gt;Subject: Confirmation of Employment - Jigga [Your Last Name]&lt;/p&gt;
 &lt;p&gt;Dear [Recipient&#39;s Name],&lt;/p&gt;
 &lt;p&gt;I hope this email finds you well.&lt;/p&gt;
 &lt;p&gt;This is to formally confirm that &lt;strong&gt;Jigga [Last Name]&lt;/strong&gt; is currently employed with [Company Name] as a &lt;strong&gt;Software Engineer&lt;/strong&gt; since [start date, e.g., January 15, 2023].&lt;/p&gt;
@@ -40,35 +35,38 @@
 [Company Name]&lt;br&gt;
 [Your Contact Information]&lt;br&gt;
 [Company Website URL (optional)]&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Jigga, Byte</title>
-    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-29-jigga/" />
-    <updated>2025-06-29T00:00:00Z</updated>
-    <id>http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-29-jigga/</id>
-    <content type="html">&lt;p&gt;The jigga post.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Welcome to the Game Night RSS Feed!</title>
-    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/welcome-to-our-feed/" />
-    <updated>2025-06-29T00:00:00Z</updated>
-    <id>http://localhost:8080/gamenightgpt-site/dist/posts/welcome-to-our-feed/</id>
-    <content type="html">&lt;h1&gt;Welcome to the Game Night RSS Feed! 🎲&lt;/h1&gt;
+</description>
+      <pubDate>Sat, 28 Jun 2025 18:17:39 GMT</pubDate>
+      <dc:creator>GameNight GPT</dc:creator>
+      <guid>http://localhost:8080/gamenightgpt-site/dist/posts/software/</guid>
+    </item>
+    <item>
+      <title>Jigga, Byte</title>
+      <link>http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-29-jigga/</link>
+      <description>&lt;p&gt;The jigga post.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 29 Jun 2025 01:00:00 GMT</pubDate>
+      <dc:creator>GameNight GPT</dc:creator>
+      <guid>http://localhost:8080/gamenightgpt-site/dist/posts/2025-06-29-jigga/</guid>
+    </item>
+    <item>
+      <title>Welcome to the Game Night RSS Feed!</title>
+      <link>http://localhost:8080/gamenightgpt-site/dist/posts/welcome-to-our-feed/</link>
+      <description>&lt;h1&gt;Welcome to the Game Night RSS Feed! 🎲&lt;/h1&gt;
 &lt;p&gt;Hello and welcome!&lt;/p&gt;
 &lt;p&gt;Thank you for subscribing to the Game Night RSS feed. Here, you&#39;ll get the latest updates, announcements, and behind-the-scenes news about our platform, upcoming features, and community events.&lt;/p&gt;
 &lt;p&gt;Stay tuned for exciting content, and thank you for being part of our journey!&lt;/p&gt;
 &lt;p&gt;Happy gaming,&lt;br&gt;
 The Game Night Team&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title></title>
-    <link href="http://localhost:8080/gamenightgpt-site/dist/posts/soft/" />
-    <updated>2025-06-29T12:30:01Z</updated>
-    <id>http://localhost:8080/gamenightgpt-site/dist/posts/soft/</id>
-    <content type="html">&lt;p&gt;Subject: Confirmation of Employment - Jigger [Your Last Name]&lt;/p&gt;
+</description>
+      <pubDate>Sun, 29 Jun 2025 01:00:00 GMT</pubDate>
+      <dc:creator>GameNight GPT</dc:creator>
+      <guid>http://localhost:8080/gamenightgpt-site/dist/posts/welcome-to-our-feed/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:8080/gamenightgpt-site/dist/posts/soft/</link>
+      <description>&lt;p&gt;Subject: Confirmation of Employment - Jigger [Your Last Name]&lt;/p&gt;
 &lt;p&gt;Dear [Recipient&#39;s Name],&lt;/p&gt;
 &lt;p&gt;I hope this email finds you well.&lt;/p&gt;
 &lt;p&gt;This is to formally confirm that &lt;strong&gt;Jigga [Last Name]&lt;/strong&gt; is currently employed with [Company Name] as a &lt;strong&gt;Software Engineer&lt;/strong&gt; since [start date, e.g., January 15, 2023].&lt;/p&gt;
@@ -85,6 +83,10 @@ The Game Night Team&lt;/p&gt;
 [Company Name]&lt;br&gt;
 [Your Contact Information]&lt;br&gt;
 [Company Website URL (optional)]&lt;/p&gt;
-</content>
-  </entry>
-</feed>
+</description>
+      <pubDate>Sun, 29 Jun 2025 13:30:01 GMT</pubDate>
+      <dc:creator>GameNight GPT</dc:creator>
+      <guid>http://localhost:8080/gamenightgpt-site/dist/posts/soft/</guid>
+    </item>
+  </channel>
+</rss>

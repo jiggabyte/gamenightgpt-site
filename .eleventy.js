@@ -3,7 +3,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(pluginRss.feedPlugin, {
-    type: "atom", // or "rss", "json"
+    type: "rss", // or "rss", "json"
     outputPath: "/rss.xml",
     collection: {
       name: "posts", // iterate over `collections.posts`
@@ -42,6 +42,6 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     // pathPrefix: "/",
-    pathPrefix: "/gamenightgpt-site/dist/",            // change if you deploy to /repo-name
+    pathPrefix: "/gamenightgpt-site/dist",            // change if you deploy to /repo-name
   };
 };
