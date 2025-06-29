@@ -5,8 +5,7 @@ layout: base.njk
 
 # All Posts
 <ul>
-{%- set posts = collections.posts | slice(0, 50) %}
-  {%- for post in posts %}
+  {%- for post in collections.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a>
       {%- if post.title %}
