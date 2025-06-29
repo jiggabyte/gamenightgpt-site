@@ -3,10 +3,6 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 module.exports = function (eleventyConfig) {
   /* 1. RSS */
   eleventyConfig.addPlugin(pluginRss);
-  
-  eleventyConfig.addCollection("rss", (collection) =>
-    pluginRss.getRssItems(collection)
-  );
 
   /* 2. Blog collection */
   eleventyConfig.addCollection("posts", (col) =>
@@ -24,6 +20,6 @@ module.exports = function (eleventyConfig) {
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
-    pathPrefix: "/",            // change if you deploy to /repo-name
+    pathPrefix: "/gamenightgpt-site/dist",            // change if you deploy to /repo-name
   };
 };
