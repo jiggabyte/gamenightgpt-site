@@ -20,6 +20,6 @@ module.exports = function (eleventyConfig) {
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
-    pathPrefix: "/gamenightgpt-site",            // change if you deploy to /repo-name
+    pathPrefix: "/",            // change if you deploy to /repo-name
   };
 };
