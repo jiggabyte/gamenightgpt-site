@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://jiggabyte.github.io/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://jiggabyte.github.io/gamenightgpt-site/dist/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GameNight GPT</title>
-    <link>https://jiggabyte.github.io/</link>
+    <link>https://jiggabyte.github.io/gamenightgpt-site/dist/</link>
     <atom:link href="https://jiggabyte.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>Gamenight Updates</description>
     <language>en</language>
@@ -177,6 +177,36 @@ Green Valley Nonprofit&lt;br&gt;
       <pubDate>Tue, 01 Jul 2025 12:51:42 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
       <guid>https://jiggabyte.github.io/posts/test/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jiggabyte.github.io/posts/checker/</link>
+      <description>&lt;h1&gt;Thank You Letter&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 25, 2023&lt;br&gt;
+&lt;strong&gt;To:&lt;/strong&gt; Sarah Johnson&lt;br&gt;
+&lt;strong&gt;From:&lt;/strong&gt; Michael Chen&lt;br&gt;
+&lt;strong&gt;Subject:&lt;/strong&gt; Heartfelt Thanks for Your Support&lt;/p&gt;
+&lt;p&gt;Dear Sarah,&lt;/p&gt;
+&lt;p&gt;I wanted to take a moment to sincerely thank you for your incredible support during [Project/Event Name: &lt;em&gt;&amp;quot;Spring Fundraiser 2023&amp;quot;&lt;/em&gt;]. Your dedication and hard work were instrumental in helping us raise &lt;strong&gt;$12,500&lt;/strong&gt; for [Cause: &lt;em&gt;local animal shelters&lt;/em&gt;].&lt;/p&gt;
+&lt;p&gt;A few highlights of your impact:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Volunteer Leadership:&lt;/strong&gt; You coordinated 15 volunteers effortlessly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Creative Ideas:&lt;/strong&gt; Your suggestion to include a silent auction boosted donations by 30%.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Positive Energy:&lt;/strong&gt; Everyone appreciated your enthusiasm!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks to you, we are one step closer to [Goal: &lt;em&gt;building a new community center&lt;/em&gt;]. I’m so grateful to have you on our team.&lt;/p&gt;
+&lt;p&gt;Let’s celebrate soon! I’d love to treat you to coffee at [Place: &lt;em&gt;The Daily Grind&lt;/em&gt;] next week.&lt;/p&gt;
+&lt;p&gt;With gratitude,&lt;br&gt;
+&lt;strong&gt;Michael Chen&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Program Director&lt;/em&gt;&lt;br&gt;
+Green Valley Nonprofit&lt;br&gt;
+📞 (555) 123-4567 | ✉️ michael@greenvalley.org&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; If you know others who’d like to join our next project, feel free to share this [Link: &lt;em&gt;volunteer.greenvalley.org&lt;/em&gt;]!&lt;/p&gt;
+</description>
+      <pubDate>Tue, 01 Jul 2025 12:58:56 GMT</pubDate>
+      <dc:creator>GameNight GPT</dc:creator>
+      <guid>https://jiggabyte.github.io/posts/checker/</guid>
     </item>
   </channel>
 </rss>
