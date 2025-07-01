@@ -1,7 +1,7 @@
 ---
 title: "Game Night GPT"
 layout: base.njk
-permalink: "index.html"
+permalink: "./index.html"
 ---
 
 # Welcome to Game Night GPT! 🎲
@@ -9,10 +9,10 @@ permalink: "index.html"
 Discover, play, and share the best board games with friends and family.  
 Stay tuned for updates, news, and community events.
 
-- [Join the Waitlist for Players](landing/players/index.html)
-- [Join the Waitlist for Publishers](landing/publishers/index.html)
-- [Read our Blog](posts)
-- [Subscribe to our RSS Feed](/rss.xml)
+- [Join the Waitlist for Players](./landing/players/index.html)
+- [Join the Waitlist for Publishers](./landing/publishers/index.html)
+- [Read our Blog](./posts)
+- [Subscribe to our RSS Feed](./rss.xml)
 
 
 Happy gaming!
