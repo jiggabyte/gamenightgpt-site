@@ -1,8 +1,84 @@
----
-title: "Game Night GPT"
-layout: base.njk
-permalink: "./index.html"
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Game Night</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700,400&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      font-family: 'Montserrat', Arial, sans-serif;
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .container {
+      background: #fff;
+      padding: 2.5rem 2rem;
+      border-radius: 18px;
+      box-shadow: 0 8px 32px rgba(44, 62, 80, 0.18);
+      max-width: 350px;
+      width: 100%;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+      color: #4f3ca7;
+      font-weight: 700;
+    }
+    p {
+      color: #555;
+      margin-bottom: 1.5rem;
+      font-size: 1.05rem;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    input[type="email"] {
+      padding: 0.75rem 1rem;
+      border: 1px solid #d1d5db;
+      border-radius: 8px;
+      font-size: 1rem;
+      outline: none;
+      transition: border 0.2s;
+    }
+    input[type="email"]:focus {
+      border-color: #764ba2;
+    }
+    button[type="submit"] {
+      background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      padding: 0.75rem 1rem;
+      font-size: 1.1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.2s;
+      box-shadow: 0 2px 8px rgba(118, 75, 162, 0.08);
+    }
+    button[type="submit"]:hover {
+      background: linear-gradient(90deg, #764ba2 0%, #667eea 100%);
+    }
+    @media (max-width: 480px) {
+      .container {
+        padding: 1.5rem 0.5rem;
+      }
+      h1 {
+        font-size: 1.3rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="posts-list-container">
 
 # Welcome to Game Night GPT! 🎲
 
@@ -16,3 +92,75 @@ Stay tuned for updates, news, and community events.
 
 
 Happy gaming!
+
+</div>
+
+
+<style>
+.posts-list-container {
+  background: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px rgba(44, 62, 80, 0.18);
+  max-width: 600px;
+  width: 100%;
+  margin: 2rem auto;
+  text-align: left;
+}
+.posts-list-container h1 {
+  color: #4f3ca7;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+.posts-list-container p {
+  color: #555;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.posts-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.post-list-item {
+  padding: 1.2rem 0;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.post-link {
+  font-size: 1.15rem;
+  color: #764ba2;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.post-link:hover {
+  color: #667eea;
+  text-decoration: underline;
+}
+.post-date {
+  color: #888;
+  font-size: 0.95em;
+  margin-left: 0.5em;
+}
+.post-desc {
+  color: #555;
+  font-size: 1em;
+  margin-top: 0.2em;
+}
+@media (max-width: 600px) {
+  .posts-list-container {
+    padding: 1.2rem 0.5rem;
+    max-width: 98vw;
+  }
+  .posts-list-container h1 {
+    font-size: 1.3rem;
+  }
+}
+</style>
+</body>
+</html>
