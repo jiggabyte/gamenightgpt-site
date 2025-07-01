@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://jiggabyte.github.io/gamenightgpt-site/dist/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://jiggabyte.github.io/gamenightgpt-site/dist/gamenightgpt-site/dist/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GameNight GPT</title>
-    <link>https://jiggabyte.github.io/gamenightgpt-site/dist/</link>
-    <atom:link href="https://jiggabyte.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://jiggabyte.github.io/gamenightgpt-site/dist/gamenightgpt-site/dist/</link>
+    <atom:link href="https://jiggabyte.github.io/gamenightgpt-site/dist/rss.xml" rel="self" type="application/rss+xml" />
     <description>Gamenight Updates</description>
     <language>en</language>
     <item>
       <title>Hello, World</title>
-      <link>https://jiggabyte.github.io/posts/2025-06-24-hello/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/2025-06-24-hello/</link>
       <description>&lt;p&gt;My first post.&lt;/p&gt;
 </description>
       <pubDate>Tue, 24 Jun 2025 01:00:00 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/2025-06-24-hello/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/2025-06-24-hello/</guid>
     </item>
     <item>
       <title></title>
-      <link>https://jiggabyte.github.io/posts/software/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/software/</link>
       <description>&lt;p&gt;Subject: Confirmation of Employment - Jigga [Your Last Name]&lt;/p&gt;
 &lt;p&gt;Dear [Recipient&#39;s Name],&lt;/p&gt;
 &lt;p&gt;I hope this email finds you well.&lt;/p&gt;
@@ -38,20 +38,20 @@
 </description>
       <pubDate>Sat, 28 Jun 2025 18:17:39 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/software/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/software/</guid>
     </item>
     <item>
       <title>Jigga, Byte</title>
-      <link>https://jiggabyte.github.io/posts/2025-06-29-jigga/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/2025-06-29-jigga/</link>
       <description>&lt;p&gt;The jigga post.&lt;/p&gt;
 </description>
       <pubDate>Sun, 29 Jun 2025 01:00:00 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/2025-06-29-jigga/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/2025-06-29-jigga/</guid>
     </item>
     <item>
       <title>Welcome BYU Students to a New Term!</title>
-      <link>https://jiggabyte.github.io/posts/welcome-byu-students/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/welcome-byu-students/</link>
       <description>&lt;h1&gt;Welcome BYU Students to a New Term! 🎓&lt;/h1&gt;
 &lt;p&gt;Dear BYU Students,&lt;/p&gt;
 &lt;p&gt;Welcome to a brand new term at Brigham Young University! Whether you are joining us for the first time or returning to continue your journey, we are thrilled to have you as part of our vibrant community.&lt;/p&gt;
@@ -62,11 +62,11 @@ The Game Night GPT Team&lt;/p&gt;
 </description>
       <pubDate>Sun, 29 Jun 2025 01:00:00 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/welcome-byu-students/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/welcome-byu-students/</guid>
     </item>
     <item>
       <title>Welcome to the Game Night RSS Feed!</title>
-      <link>https://jiggabyte.github.io/posts/welcome-to-our-feed/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/welcome-to-our-feed/</link>
       <description>&lt;h1&gt;Welcome to the Game Night RSS Feed! 🎲&lt;/h1&gt;
 &lt;p&gt;Hello and welcome!&lt;/p&gt;
 &lt;p&gt;Thank you for subscribing to the Game Night RSS feed. Here, you&#39;ll get the latest updates, announcements, and behind-the-scenes news about our platform, upcoming features, and community events.&lt;/p&gt;
@@ -76,11 +76,11 @@ The Game Night Team&lt;/p&gt;
 </description>
       <pubDate>Sun, 29 Jun 2025 01:00:00 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/welcome-to-our-feed/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/welcome-to-our-feed/</guid>
     </item>
     <item>
       <title>Welcome BYU Students to a New Term!</title>
-      <link>https://jiggabyte.github.io/posts/welcome/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/welcome/</link>
       <description>&lt;h1&gt;Welcome BYU Students to a New Term! 🎓&lt;/h1&gt;
 &lt;p&gt;Dear BYU Students,&lt;/p&gt;
 &lt;p&gt;Welcome to a brand new term at Brigham Young University! Whether you are joining us for the first time or returning to continue your journey, we are thrilled to have you as part of our vibrant community.&lt;/p&gt;
@@ -91,11 +91,11 @@ The Game Night GPT Team&lt;/p&gt;
 </description>
       <pubDate>Sun, 29 Jun 2025 01:00:00 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/welcome/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/welcome/</guid>
     </item>
     <item>
       <title></title>
-      <link>https://jiggabyte.github.io/posts/soft/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/soft/</link>
       <description>&lt;p&gt;Subject: Confirmation of Employment - Jigger [Your Last Name]&lt;/p&gt;
 &lt;p&gt;Dear [Recipient&#39;s Name],&lt;/p&gt;
 &lt;p&gt;I hope this email finds you well.&lt;/p&gt;
@@ -116,11 +116,11 @@ The Game Night GPT Team&lt;/p&gt;
 </description>
       <pubDate>Sun, 29 Jun 2025 13:30:01 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/soft/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/soft/</guid>
     </item>
     <item>
       <title></title>
-      <link>https://jiggabyte.github.io/posts/thankyou/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/thankyou/</link>
       <description>&lt;h1&gt;Thank You Letter&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 25, 2023&lt;br&gt;
 &lt;strong&gt;To:&lt;/strong&gt; Sarah Johnson&lt;br&gt;
@@ -146,11 +146,11 @@ Green Valley Nonprofit&lt;br&gt;
 </description>
       <pubDate>Tue, 01 Jul 2025 12:29:17 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/thankyou/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/thankyou/</guid>
     </item>
     <item>
       <title></title>
-      <link>https://jiggabyte.github.io/posts/test/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/test/</link>
       <description>&lt;h1&gt;Thank You Letter&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 25, 2023&lt;br&gt;
 &lt;strong&gt;To:&lt;/strong&gt; Sarah Johnson&lt;br&gt;
@@ -176,11 +176,11 @@ Green Valley Nonprofit&lt;br&gt;
 </description>
       <pubDate>Tue, 01 Jul 2025 12:51:42 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/test/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/test/</guid>
     </item>
     <item>
       <title></title>
-      <link>https://jiggabyte.github.io/posts/checker/</link>
+      <link>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/checker/</link>
       <description>&lt;h1&gt;Thank You Letter&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 25, 2023&lt;br&gt;
 &lt;strong&gt;To:&lt;/strong&gt; Sarah Johnson&lt;br&gt;
@@ -206,7 +206,7 @@ Green Valley Nonprofit&lt;br&gt;
 </description>
       <pubDate>Tue, 01 Jul 2025 12:58:56 GMT</pubDate>
       <dc:creator>GameNight GPT</dc:creator>
-      <guid>https://jiggabyte.github.io/posts/checker/</guid>
+      <guid>https://jiggabyte.github.io/gamenightgpt-site/dist/posts/checker/</guid>
     </item>
   </channel>
 </rss>
