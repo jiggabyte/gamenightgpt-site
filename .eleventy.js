@@ -22,13 +22,26 @@ module.exports = function (eleventyConfig) {
   });
 
   function postsIndexPlugin(eleventyConfig) {
-  // Collection for all posts (for index page)
-  eleventyConfig.addCollection("allPosts", (collectionApi) =>
-    collectionApi.getFilteredByGlob("src/posts/**/*.md")
-  );
-}
+    // Collection for all posts (for index page)
+    eleventyConfig.addCollection("allPosts", (collectionApi) =>
+      collectionApi.getFilteredByGlob("src/posts/**/*.md")
+    );
+  }
 
- // Add the posts index plugin
+    // Copy the media folder to dist
+  eleventyConfig.addPassthroughCopy("src/posts/media");
+
+    /* Image processing */
+  eleventyConfig.addTransform("relToAbs", (content, outputPath) => {
+    if (outputPath && outputPath.endsWith(".html")) {
+      return content.replace(/src="\/(.*?)"/g, (m, p1) =>
+        `src="${site.url}/${p1}"`
+      );
+    }
+    return content;
+  });
+
+  // Add the posts index plugin
   eleventyConfig.addPlugin(postsIndexPlugin);
 
   /* 1. RSS */
@@ -53,4 +66,7 @@ module.exports = function (eleventyConfig) {
     // pathPrefix: "./",
     pathPrefix: "/gamenightgpt-site/dist",            // change if you deploy to /repo-name
   };
+
+
+
 };
