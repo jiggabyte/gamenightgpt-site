@@ -21,6 +21,15 @@ module.exports = function (eleventyConfig) {
     }
   });
 
+  function postsIndexPlugin(eleventyConfig) {
+  // Collection for all posts (for index page)
+  eleventyConfig.addCollection("allPosts", (collectionApi) =>
+    collectionApi.getFilteredByGlob("src/posts/**/*.md")
+  );
+}
+
+ // Add the posts index plugin
+  eleventyConfig.addPlugin(postsIndexPlugin);
 
   /* 1. RSS */
   eleventyConfig.addPlugin(pluginRss);

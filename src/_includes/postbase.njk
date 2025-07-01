@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>All Posts</title>
+  <title>{{ title or "Game Night GPT" }}</title>
   <link href="https://fonts.googleapis.com/css?family=Montserrat:700,400&display=swap" rel="stylesheet">
   <style>
     body {
@@ -36,31 +36,25 @@
       margin: 2rem 0 1rem 0;
     }
     a {
-      color: #764ba2;
+      color: #ffffff;
       text-decoration: none;
       font-weight: 500;
       transition: color 0.2s;
     }
     a:hover {
-      color: #667eea;
+      color: #000000;
       text-decoration: underline;
     }
   </style>
-  
+  {% block head %}{% endblock %}
 </head>
 <body>
   <header>
     <h1>Game Night GPT</h1>
-    <nav>
-      <a href="/">Home</a> |
-      <a href="/landing/players/index.html">Players Waitlist</a> |
-      <a href="/landing/publishers/index.html">Publishers Waitlist</a> |
-      <a href="/posts/index.html">Blog</a> |
-      <a href="/rss.xml">RSS</a>
-    </nav>
+   
   </header>
   <main>
-    
+    {% block content %}{% endblock %}
   </main>
   <footer>
     &copy; 2025 Game Night GPT. All rights reserved.
