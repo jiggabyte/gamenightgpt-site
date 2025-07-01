@@ -1,6 +1,6 @@
 ---
 title: "Sixtus Blog Post Now"
-date: 2025-07-1
+date: 2025-07-01
 ---
 # Sixtus Test Letter  
 
