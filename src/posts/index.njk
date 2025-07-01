@@ -84,7 +84,7 @@
   <ul class="posts-list">
     {%- for post in collections.allPosts %}
       <li class="post-list-item">
-        <a class="post-link" href="./{{ post.url }}">
+        <a class="post-link" href="../{{ post.url }}">
           <span class="post-title">{{ post.data.title or post.fileSlug }}</span>
         </a>
         {%- if post.date %}
